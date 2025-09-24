@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-muted-foreground { color: theme('colors.muted.foreground'); }
